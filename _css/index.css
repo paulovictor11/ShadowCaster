@@ -1,0 +1,81 @@
+#corpo {
+    background-color: #A0522D;
+}
+
+#principal {
+    background-image: url("../_images/imagem_principal.jpg");
+    background-repeat: no-repeat;
+    height: 1080px;
+    display: block;
+}
+
+#social {
+    position: absolute;
+    left: 1500px;
+}
+
+#social #facebook {
+    color: darkblue;
+}
+
+#social #twitter {
+    color: dodgerblue;
+}
+
+#social #instagram {
+    color: orangered;
+}
+
+#download_principal {
+    position: absolute;
+    bottom: 50px;
+    left: 850px;
+}
+
+#navbar {
+    margin-top: 30px;
+}
+
+#trailer {
+    background-color: #F5DEB3;
+}
+
+#trailer iframe {
+    margin-top: 30px;
+    margin-left: 155px;
+    margin-bottom: 30px;
+}
+
+#trailer button {
+    margin-left: 450px;
+    margin-bottom: 30px;
+}
+
+#devlog {
+    margin-top: 60px;
+    background-color: #F5DEB3;
+    padding: 40px;
+}
+
+#devlog p {
+    text-align: justify;
+}
+
+#quem {
+    margin-top: 60px;
+    background-color: #F5DEB3;
+    padding: 40px;
+}
+
+#quem p {
+    text-align: justify;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+#footer {
+    background: #708090;
+    margin-top: 60px;
+    padding: 60px;
+    text-align: center;
+}
